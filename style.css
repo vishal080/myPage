@@ -170,6 +170,8 @@ nav.sticky .menu-btn{
   color: #4070f4;
 }
 
+
+
 /* About Section Styling */
 /* Those Elements Where We Have Apply Same CSS,
  I'm Selecting Directly 'Section Tag' and 'Class'  */
@@ -344,6 +346,7 @@ footer .text span a{
 }
 footer .text span a:hover{
   text-decoration: underline;
+
 }
 /* Scroll TO Top Button CSS */
 .scroll-button a{
